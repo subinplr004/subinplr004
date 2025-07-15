@@ -5,6 +5,7 @@
 - 📫 You can reach me via my mail id 'subinplr004@gmail.com' or my linkedin 'subinbabu369' for collaborations and discussions.
 - 😄 I'm always ready to learn and explore new technologies to grow in the AI era.
 - ⚡ Skillsets : Python, Django, HTML, CSS, JavaScript, Bootstrap, Tailwind css,  React, Git, Vscode, Pycharm
+- 💻 I'm an ex- Network support engineer, so whatever i do i ensure security.
 
 <!---
 subinplr004/subinplr004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
